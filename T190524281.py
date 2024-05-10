@@ -8,7 +8,7 @@ def add(n):
 a = int(input(f"How many elements to be added :"))
 ele = []
 for i in range(a):
-  k = int(input(f"Enter input for element no. {i + 1}"))
+  k = int(input(f"Enter input for element no. {i + 1} : "))
   ele.append(k)
 
 a = add(ele)
