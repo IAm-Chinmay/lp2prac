@@ -11,4 +11,6 @@ for i in range(a):
   k = int(input("Enter input for element no. {i}"))
   ele.append(k)
 
-add(ele)
+a = add(ele)
+
+print("Addition is :", a)
