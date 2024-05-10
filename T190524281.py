@@ -15,9 +15,5 @@ a = add(ele)
 
 print("Addition is :", a)
 
-z = 5
-for i in range(z):
-  for j in range(z):
-    print("*")
 
 
